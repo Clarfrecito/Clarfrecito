@@ -1,8 +1,1 @@
--👋 Hi, I’m @Clarfrecito
-- 👀 I’m interested in Futbol, Sci-fi, Anime, etc.
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, C, JAVA, PHP and SQL.
-- 📫 How to reach me https://clarfrecito.github.io/contact.html
-- ⚡ Fun fact:
-              -My name is Juan Freire
-              -I am 17 years old
-              -I am Argentine
+
