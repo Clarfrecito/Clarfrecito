@@ -6,4 +6,3 @@ Hi! I'm Juan Ignacio Freire Angrisano, a high school student currently studying 
 
 - **Mail:** [juanifreire06@gmail.com](mailto:juanifreire06@gmail.com)
 - **LinkedIn:** [Juan Ignacio Freire Angrisano](https://www.linkedin.com/in/juani-freire-32522b302/)
-- 
